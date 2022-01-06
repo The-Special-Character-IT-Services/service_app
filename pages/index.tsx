@@ -7,7 +7,7 @@ interface Props {
 const index = (props: Props) => {
   return (
     <div>
-      hello world
+      hello world second time
     </div>
   )
 }
